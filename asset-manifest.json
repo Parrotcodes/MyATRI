@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.edf9a2fd.css",
-    "main.js": "/static/js/main.d3eb7b67.js",
+    "main.css": "/static/css/main.174a52de.css",
+    "main.js": "/static/js/main.e19a969b.js",
     "static/media/18.jpg": "/static/media/18.13fd7442377e876ef2ee.jpg",
     "static/media/17.jpg": "/static/media/17.74f2598ad406db297c56.jpg",
     "static/media/1.jpg": "/static/media/1.ab7b87871d043a93851e.jpg",
@@ -45,8 +45,7 @@
     "static/media/eventschudle logo.webp": "/static/media/eventschudle logo.31e2f839696edd30de45.webp",
     "static/media/webpagebg.jpg": "/static/media/webpagebg.1c702af6b998815454fc.jpg",
     "static/media/sponsorslogo.png": "/static/media/sponsorslogo.a52c11b9f9922d2ec1cb.png",
-    "static/media/singer.jpg": "/static/media/singer.6d25ae93c1645790190b.jpg",
-    "static/media/singer2.jpg": "/static/media/singer2.024fcd200842eabd6777.jpg",
+    "static/media/singer.jpg": "/static/media/singer.3fc88f1ba2afe7332b69.jpg",
     "static/media/chalo.png": "/static/media/chalo.d641760c3993b1e08f75.png",
     "static/media/club event img.jpg": "/static/media/club event img.2ed80acf620202d29df1.jpg",
     "static/media/mainbgimg.jpg": "/static/media/mainbgimg.c435bf5f92fd3c34118f.jpg",
@@ -55,11 +54,11 @@
     "static/media/akruti.PNG": "/static/media/akruti.53730d97293a935537cf.PNG",
     "static/media/manac.PNG": "/static/media/manac.1204c9bb8b4dc43f68fa.PNG",
     "index.html": "/index.html",
-    "main.edf9a2fd.css.map": "/static/css/main.edf9a2fd.css.map",
-    "main.d3eb7b67.js.map": "/static/js/main.d3eb7b67.js.map"
+    "main.174a52de.css.map": "/static/css/main.174a52de.css.map",
+    "main.e19a969b.js.map": "/static/js/main.e19a969b.js.map"
   },
   "entrypoints": [
-    "static/css/main.edf9a2fd.css",
-    "static/js/main.d3eb7b67.js"
+    "static/css/main.174a52de.css",
+    "static/js/main.e19a969b.js"
   ]
 }
